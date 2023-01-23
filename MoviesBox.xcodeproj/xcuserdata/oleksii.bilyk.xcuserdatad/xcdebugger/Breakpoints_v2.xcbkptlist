@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6C0D1050-0770-48FC-88CC-593AE8E24F21"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E5C4A17-EFB8-43B0-8A62-9B194518E3CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesBox/LaunchController/Presenter/LaunchControllerPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getMoviesList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E5C4A17-EFB8-43B0-8A62-9B194518E3CC - 79fe1e0d67ccff7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;MoviesBox.MoviesResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MoviesBox.LaunchControllerPresenter.getMoviesList() -&gt; ()"
+                  moduleName = "MoviesBox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksii.bilyk/Downloads/MoviesBox%203/MoviesBox/LaunchController/Presenter/LaunchControllerPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "8E5C4A17-EFB8-43B0-8A62-9B194518E3CC - 79fe1e0d67ccff7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;MoviesBox.MoviesResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MoviesBox.LaunchControllerPresenter.getMoviesList() -&gt; ()"
+                  moduleName = "MoviesBox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksii.bilyk/Downloads/MoviesBox%203/MoviesBox/LaunchController/Presenter/LaunchControllerPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "8E5C4A17-EFB8-43B0-8A62-9B194518E3CC - 79fe1e0d67ccff7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;MoviesBox.MoviesResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MoviesBox.LaunchControllerPresenter.getMoviesList() -&gt; ()"
+                  moduleName = "MoviesBox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksii.bilyk/Downloads/MoviesBox%203/MoviesBox/LaunchController/Presenter/LaunchControllerPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "444">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16DBA04B-C312-4EEE-9293-80C0BE914049"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesBox/MoviesListController/Presenter/MovieListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "mapSearchResults()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "16DBA04B-C312-4EEE-9293-80C0BE914049 - 7cb725edfade9f2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviesBox.MovieListPresenter.mapSearchResults() -&gt; Swift.Array&lt;MoviesBox.MovieListViewModel&gt;"
+                  moduleName = "MoviesBox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksii.bilyk/Downloads/MoviesBox%203/MoviesBox/MoviesListController/Presenter/MovieListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "16DBA04B-C312-4EEE-9293-80C0BE914049 - be7703da70a20974"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MoviesBox.Result) -&gt; Swift.Optional&lt;MoviesBox.MovieListViewModel&gt; in MoviesBox.MovieListPresenter.mapSearchResults() -&gt; Swift.Array&lt;MoviesBox.MovieListViewModel&gt;"
+                  moduleName = "MoviesBox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksii.bilyk/Downloads/MoviesBox%203/MoviesBox/MoviesListController/Presenter/MovieListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
